@@ -7,6 +7,7 @@
 | Агеев Андрей  |  |  |  |  | 3 |  |
 | Ходосов Александр  |  |  |  |  |  |  |
 |  Алексей |  |  |  |  |  |  |
+| Сергей Нестеров |  |  |  |  |  |  |
 
 # Темы статей
 
@@ -16,4 +17,5 @@
 | Щеголихина Владислава | Autoencoders  |
 | Агеев Андрей  | Layer Normalization | 
 | Ходосов Александр  | Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift |
-|  Алексей | Adam: A Method for Stochastic Optimization |
+|  Алексей | Adam: A Method for Stochastic Optimization | 
+| Сергей Нестеров | Instance Normalization: The Missing Ingredient for Fast Stylization | 
